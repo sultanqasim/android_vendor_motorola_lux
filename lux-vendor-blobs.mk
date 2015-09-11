@@ -348,7 +348,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/motorola/lux/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
     vendor/motorola/lux/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:system/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin \
-    vendor/motorola/lux/proprietary/lib/libnfc-nci.so:system/lib/libnfc-nci.so \
     vendor/motorola/lux/proprietary/lib/hw/nfc_nci.bcm2079x.default.so:system/lib/hw/nfc_nci.bcm2079x.default.so \
     vendor/motorola/lux/proprietary/etc/firmware/BCM20795A2_001.003.025.0005.0045_Generic_I2C_NCD_Unsigned_configdata.ncd:system/etc/firmware/BCM20795A2_001.003.025.0005.0045_Generic_I2C_NCD_Unsigned_configdata.ncd \
     vendor/motorola/lux/proprietary/etc/firmware/dxhdcp2.b00:system/etc/firmware/dxhdcp2.b00 \
