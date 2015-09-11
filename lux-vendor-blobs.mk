@@ -794,4 +794,13 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/bin/perfd:system/bin/perfd \
     vendor/motorola/lux/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/motorola/lux/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
-    vendor/motorola/lux/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so
+    vendor/motorola/lux/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
+    vendor/motorola/lux/proprietary/bin/adspd:system/bin/adspd \
+    vendor/motorola/lux/proprietary/bin/loc_launcher:system/bin/loc_launcher \
+    vendor/motorola/lux/proprietary/bin/ssr_setup:system/bin/ssr_setup \
+    vendor/motorola/lux/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
+    vendor/motorola/lux/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
+    vendor/motorola/lux/proprietary/lib/libAisAdapter.so:system/lib/libAisAdapter.so \
+    vendor/motorola/lux/proprietary/lib/libAlAisLib.so:system/lib/libAlAisLib.so \
+    vendor/motorola/lux/proprietary/lib/libAlAisTune.so:system/lib/libAlAisTune.so
+    vendor/motorola/lux/proprietary/lib/libAlAisWrap.so:system/lib/libAlAisWrap.so
