@@ -802,5 +802,5 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
     vendor/motorola/lux/proprietary/lib/libAisAdapter.so:system/lib/libAisAdapter.so \
     vendor/motorola/lux/proprietary/lib/libAlAisLib.so:system/lib/libAlAisLib.so \
-    vendor/motorola/lux/proprietary/lib/libAlAisTune.so:system/lib/libAlAisTune.so
+    vendor/motorola/lux/proprietary/lib/libAlAisTune.so:system/lib/libAlAisTune.so \
     vendor/motorola/lux/proprietary/lib/libAlAisWrap.so:system/lib/libAlAisWrap.so
