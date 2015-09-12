@@ -427,7 +427,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_common.so:system/vendor/lib/libchromatix_ov5670_q5v41b_common.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_imx132.so:system/vendor/lib/libmmcamera_imx132.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov2680_preview.so:system/vendor/lib/libchromatix_ov2680_preview.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
     vendor/motorola/lux/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
     vendor/motorola/lux/proprietary/vendor/lib/libqmi_client_helper.so:system/vendor/lib/libqmi_client_helper.so \
     vendor/motorola/lux/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
@@ -790,7 +789,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_imglib.so:system/vendor/lib/libmmcamera_imglib.so \
     vendor/motorola/lux/proprietary/vendor/lib/libqmi_client_helper.so:system/vendor/lib/libqmi_client_helper.so \
     vendor/motorola/lux/proprietary/bin/rmnetcli:system/bin/rmnetcli \
-    vendor/motorola/lux/proprietary/bin/perfd:system/bin/perfd \
     vendor/motorola/lux/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/motorola/lux/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/motorola/lux/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
