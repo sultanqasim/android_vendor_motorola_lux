@@ -188,8 +188,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/etc/sap.conf:system/etc/sap.conf \
     vendor/motorola/lux/proprietary/etc/xtwifi.conf:system/etc/xtwifi.conf \
     vendor/motorola/lux/proprietary/etc/xtra_root_cert.pem:system/etc/xtra_root_cert.pem \
-    vendor/motorola/lux/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
-    vendor/motorola/lux/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/motorola/lux/proprietary/vendor/bin/slim_ap_daemon:system/vendor/bin/slim_ap_daemon \
     vendor/motorola/lux/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/motorola/lux/proprietary/vendor/lib/libalarmservice_jni.so:system/vendor/lib/libalarmservice_jni.so \
@@ -439,7 +437,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera2_is.so:system/vendor/lib/libmmcamera2_is.so \
     vendor/motorola/lux/proprietary/vendor/lib/libactuator_ov12830_camcorder.so:system/vendor/lib/libactuator_ov12830_camcorder.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_default_video.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_default_video.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libloc_ext.so:system/vendor/lib/libloc_ext.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov2680_5987fhq_default_video.so:system/vendor/lib/libchromatix_ov2680_5987fhq_default_video.so \
     vendor/motorola/lux/proprietary/vendor/lib/mmi_lcd.so:system/vendor/lib/mmi_lcd.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_s5k3m2_hfr_60.so:system/vendor/lib/libchromatix_s5k3m2_hfr_60.so \
@@ -789,8 +786,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_imglib.so:system/vendor/lib/libmmcamera_imglib.so \
     vendor/motorola/lux/proprietary/vendor/lib/libqmi_client_helper.so:system/vendor/lib/libqmi_client_helper.so \
     vendor/motorola/lux/proprietary/bin/rmnetcli:system/bin/rmnetcli \
-    vendor/motorola/lux/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
-    vendor/motorola/lux/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/motorola/lux/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/motorola/lux/proprietary/bin/adspd:system/bin/adspd \
     vendor/motorola/lux/proprietary/bin/loc_launcher:system/bin/loc_launcher \
