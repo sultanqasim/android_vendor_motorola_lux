@@ -188,8 +188,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/etc/sap.conf:system/etc/sap.conf \
     vendor/motorola/lux/proprietary/etc/xtwifi.conf:system/etc/xtwifi.conf \
     vendor/motorola/lux/proprietary/etc/xtra_root_cert.pem:system/etc/xtra_root_cert.pem \
-    vendor/motorola/lux/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
-    vendor/motorola/lux/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/motorola/lux/proprietary/vendor/bin/slim_ap_daemon:system/vendor/bin/slim_ap_daemon \
     vendor/motorola/lux/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/motorola/lux/proprietary/vendor/lib/libalarmservice_jni.so:system/vendor/lib/libalarmservice_jni.so \
@@ -348,7 +346,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/motorola/lux/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
     vendor/motorola/lux/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:system/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin \
-    vendor/motorola/lux/proprietary/lib/libnfc-nci.so:system/lib/libnfc-nci.so \
     vendor/motorola/lux/proprietary/lib/hw/nfc_nci.bcm2079x.default.so:system/lib/hw/nfc_nci.bcm2079x.default.so \
     vendor/motorola/lux/proprietary/etc/firmware/BCM20795A2_001.003.025.0005.0045_Generic_I2C_NCD_Unsigned_configdata.ncd:system/etc/firmware/BCM20795A2_001.003.025.0005.0045_Generic_I2C_NCD_Unsigned_configdata.ncd \
     vendor/motorola/lux/proprietary/etc/firmware/dxhdcp2.b00:system/etc/firmware/dxhdcp2.b00 \
@@ -428,7 +425,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_common.so:system/vendor/lib/libchromatix_ov5670_q5v41b_common.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_imx132.so:system/vendor/lib/libmmcamera_imx132.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov2680_preview.so:system/vendor/lib/libchromatix_ov2680_preview.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
     vendor/motorola/lux/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
     vendor/motorola/lux/proprietary/vendor/lib/libqmi_client_helper.so:system/vendor/lib/libqmi_client_helper.so \
     vendor/motorola/lux/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
@@ -441,7 +437,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera2_is.so:system/vendor/lib/libmmcamera2_is.so \
     vendor/motorola/lux/proprietary/vendor/lib/libactuator_ov12830_camcorder.so:system/vendor/lib/libactuator_ov12830_camcorder.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_default_video.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_default_video.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libloc_ext.so:system/vendor/lib/libloc_ext.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov2680_5987fhq_default_video.so:system/vendor/lib/libchromatix_ov2680_5987fhq_default_video.so \
     vendor/motorola/lux/proprietary/vendor/lib/mmi_lcd.so:system/vendor/lib/mmi_lcd.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_s5k3m2_hfr_60.so:system/vendor/lib/libchromatix_s5k3m2_hfr_60.so \
@@ -791,7 +786,13 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_imglib.so:system/vendor/lib/libmmcamera_imglib.so \
     vendor/motorola/lux/proprietary/vendor/lib/libqmi_client_helper.so:system/vendor/lib/libqmi_client_helper.so \
     vendor/motorola/lux/proprietary/bin/rmnetcli:system/bin/rmnetcli \
-    vendor/motorola/lux/proprietary/bin/perfd:system/bin/perfd \
-    vendor/motorola/lux/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
-    vendor/motorola/lux/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
-    vendor/motorola/lux/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so
+    vendor/motorola/lux/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
+    vendor/motorola/lux/proprietary/bin/adspd:system/bin/adspd \
+    vendor/motorola/lux/proprietary/bin/loc_launcher:system/bin/loc_launcher \
+    vendor/motorola/lux/proprietary/bin/ssr_setup:system/bin/ssr_setup \
+    vendor/motorola/lux/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
+    vendor/motorola/lux/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
+    vendor/motorola/lux/proprietary/lib/libAisAdapter.so:system/lib/libAisAdapter.so \
+    vendor/motorola/lux/proprietary/lib/libAlAisLib.so:system/lib/libAlAisLib.so \
+    vendor/motorola/lux/proprietary/lib/libAlAisTune.so:system/lib/libAlAisTune.so \
+    vendor/motorola/lux/proprietary/lib/libAlAisWrap.so:system/lib/libAlAisWrap.so
