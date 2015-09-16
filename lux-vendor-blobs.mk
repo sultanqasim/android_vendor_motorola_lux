@@ -112,8 +112,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/motorola/lux/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/motorola/lux/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
-    vendor/motorola/lux/proprietary/etc/pp_calib_data_mipi_mot_cmd_tdi_1080p_546_v0.xml:system/etc/pp_calib_data_mipi_mot_cmd_tdi_1080p_546_v0.xml \
-    vendor/motorola/lux/proprietary/etc/pp_calib_data_mipi_mot_cmd_tdi_1080p_546_v1.xml:system/etc/pp_calib_data_mipi_mot_cmd_tdi_1080p_546_v1.xml \
     vendor/motorola/lux/proprietary/etc/quipc.conf:system/etc/quipc.conf \
     vendor/motorola/lux/proprietary/etc/sap.conf:system/etc/sap.conf \
     vendor/motorola/lux/proprietary/etc/xtra_root_cert.pem:system/etc/xtra_root_cert.pem \
