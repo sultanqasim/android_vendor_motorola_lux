@@ -132,7 +132,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/lib/libjscore.so:system/lib/libjscore.so \
     vendor/motorola/lux/proprietary/lib/libjustshoot.so:system/lib/libjustshoot.so \
     vendor/motorola/lux/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
+    vendor/motorola/lux/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/motorola/lux/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
+    vendor/motorola/lux/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/motorola/lux/proprietary/lib/libmdmcutback.so:system/lib/libmdmcutback.so \
     vendor/motorola/lux/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/motorola/lux/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
