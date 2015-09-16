@@ -25,9 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/bin/hardware_revisions.sh:system/bin/hardware_revisions.sh \
     vendor/motorola/lux/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/motorola/lux/proprietary/bin/irsc_util:system/bin/irsc_util \
-    vendor/motorola/lux/proprietary/bin/loc_launcher:system/bin/loc_launcher \
     vendor/motorola/lux/proprietary/bin/location-mq:system/bin/location-mq \
-    vendor/motorola/lux/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/motorola/lux/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
     vendor/motorola/lux/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/motorola/lux/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
@@ -41,7 +39,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/bin/rild:system/bin/rild \
     vendor/motorola/lux/proprietary/bin/rmnetcli:system/bin/rmnetcli \
     vendor/motorola/lux/proprietary/bin/rmt_storage:system/bin/rmt_storage \
-    vendor/motorola/lux/proprietary/bin/ssr_setup:system/bin/ssr_setup \
     vendor/motorola/lux/proprietary/bin/stml0xx:system/bin/stml0xx \
     vendor/motorola/lux/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/motorola/lux/proprietary/bin/time_daemon:system/bin/time_daemon \
