@@ -242,39 +242,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_snapshot.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_snapshot.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_video_hd.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_video_hd.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_zsl.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_zsl.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx132_common.so:system/vendor/lib/libchromatix_imx132_common.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx132_default_video.so:system/vendor/lib/libchromatix_imx132_default_video.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx132_liveshot.so:system/vendor/lib/libchromatix_imx132_liveshot.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx132_preview.so:system/vendor/lib/libchromatix_imx132_preview.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx132_snapshot.so:system/vendor/lib/libchromatix_imx132_snapshot.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx135_common.so:system/vendor/lib/libchromatix_imx135_common.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx135_default_video.so:system/vendor/lib/libchromatix_imx135_default_video.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx135_hfr_60.so:system/vendor/lib/libchromatix_imx135_hfr_60.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx135_snapshot.so:system/vendor/lib/libchromatix_imx135_snapshot.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_common.so:system/vendor/lib/libchromatix_imx214_common.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_common_hdr.so:system/vendor/lib/libchromatix_imx214_common_hdr.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_default_video.so:system/vendor/lib/libchromatix_imx214_default_video.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_hfr_120fps.so:system/vendor/lib/libchromatix_imx214_hfr_120fps.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_hfr_60fps.so:system/vendor/lib/libchromatix_imx214_hfr_60fps.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_hfr_90fps.so:system/vendor/lib/libchromatix_imx214_hfr_90fps.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_liveshot.so:system/vendor/lib/libchromatix_imx214_liveshot.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_liveshot_hdr.so:system/vendor/lib/libchromatix_imx214_liveshot_hdr.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_new_ircf_common.so:system/vendor/lib/libchromatix_imx214_new_ircf_common.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_new_ircf_common_hdr.so:system/vendor/lib/libchromatix_imx214_new_ircf_common_hdr.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_new_ircf_default_video.so:system/vendor/lib/libchromatix_imx214_new_ircf_default_video.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_new_ircf_hfr_120fps.so:system/vendor/lib/libchromatix_imx214_new_ircf_hfr_120fps.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_new_ircf_hfr_60fps.so:system/vendor/lib/libchromatix_imx214_new_ircf_hfr_60fps.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_new_ircf_liveshot.so:system/vendor/lib/libchromatix_imx214_new_ircf_liveshot.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_new_ircf_liveshot_hdr.so:system/vendor/lib/libchromatix_imx214_new_ircf_liveshot_hdr.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_new_ircf_preview.so:system/vendor/lib/libchromatix_imx214_new_ircf_preview.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_new_ircf_preview_night.so:system/vendor/lib/libchromatix_imx214_new_ircf_preview_night.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_new_ircf_snapshot.so:system/vendor/lib/libchromatix_imx214_new_ircf_snapshot.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_new_ircf_snapshot_night.so:system/vendor/lib/libchromatix_imx214_new_ircf_snapshot_night.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_new_ircf_video_hdr.so:system/vendor/lib/libchromatix_imx214_new_ircf_video_hdr.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_preview.so:system/vendor/lib/libchromatix_imx214_preview.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_snapshot.so:system/vendor/lib/libchromatix_imx214_snapshot.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_snapshot_hdr.so:system/vendor/lib/libchromatix_imx214_snapshot_hdr.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx214_video_hdr.so:system/vendor/lib/libchromatix_imx214_video_hdr.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx230_common.so:system/vendor/lib/libchromatix_imx230_common.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx230_common_hdr.so:system/vendor/lib/libchromatix_imx230_common_hdr.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx230_default_video.so:system/vendor/lib/libchromatix_imx230_default_video.so \
@@ -288,25 +255,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx230_snapshot_hdr.so:system/vendor/lib/libchromatix_imx230_snapshot_hdr.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx230_snapshot_night.so:system/vendor/lib/libchromatix_imx230_snapshot_night.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx230_video_hdr.so:system/vendor/lib/libchromatix_imx230_video_hdr.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov13850_common.so:system/vendor/lib/libchromatix_ov13850_common.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov13850_default_video.so:system/vendor/lib/libchromatix_ov13850_default_video.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov13850_hfr_120fps.so:system/vendor/lib/libchromatix_ov13850_hfr_120fps.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov13850_hfr_60fps.so:system/vendor/lib/libchromatix_ov13850_hfr_60fps.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov13850_hfr_90fps.so:system/vendor/lib/libchromatix_ov13850_hfr_90fps.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov13850_preview.so:system/vendor/lib/libchromatix_ov13850_preview.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov13850_snapshot.so:system/vendor/lib/libchromatix_ov13850_snapshot.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov16825_common.so:system/vendor/lib/libchromatix_ov16825_common.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov16825_default_video.so:system/vendor/lib/libchromatix_ov16825_default_video.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov16825_preview.so:system/vendor/lib/libchromatix_ov16825_preview.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov16825_snapshot.so:system/vendor/lib/libchromatix_ov16825_snapshot.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov2680_5987fhq_common.so:system/vendor/lib/libchromatix_ov2680_5987fhq_common.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov2680_5987fhq_default_video.so:system/vendor/lib/libchromatix_ov2680_5987fhq_default_video.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov2680_5987fhq_preview.so:system/vendor/lib/libchromatix_ov2680_5987fhq_preview.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov2680_5987fhq_snapshot.so:system/vendor/lib/libchromatix_ov2680_5987fhq_snapshot.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov2680_common.so:system/vendor/lib/libchromatix_ov2680_common.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov2680_default_video.so:system/vendor/lib/libchromatix_ov2680_default_video.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov2680_preview.so:system/vendor/lib/libchromatix_ov2680_preview.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov2680_snapshot.so:system/vendor/lib/libchromatix_ov2680_snapshot.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5648_p5v18g_common.so:system/vendor/lib/libchromatix_ov5648_p5v18g_common.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5648_p5v18g_default_video.so:system/vendor/lib/libchromatix_ov5648_p5v18g_default_video.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5648_p5v18g_default_video_hd.so:system/vendor/lib/libchromatix_ov5648_p5v18g_default_video_hd.so \
@@ -329,37 +277,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_snapshot.so:system/vendor/lib/libchromatix_ov5670_q5v41b_snapshot.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_video_hd.so:system/vendor/lib/libchromatix_ov5670_q5v41b_video_hd.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_zsl.so:system/vendor/lib/libchromatix_ov5670_q5v41b_zsl.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov8858_common.so:system/vendor/lib/libchromatix_ov8858_common.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov8858_default_video.so:system/vendor/lib/libchromatix_ov8858_default_video.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov8858_hfr_120fps.so:system/vendor/lib/libchromatix_ov8858_hfr_120fps.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov8858_hfr_60fps.so:system/vendor/lib/libchromatix_ov8858_hfr_60fps.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov8858_hfr_90fps.so:system/vendor/lib/libchromatix_ov8858_hfr_90fps.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov8858_liveshot.so:system/vendor/lib/libchromatix_ov8858_liveshot.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov8858_preview.so:system/vendor/lib/libchromatix_ov8858_preview.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov8858_q8v19w_common.so:system/vendor/lib/libchromatix_ov8858_q8v19w_common.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov8858_q8v19w_default_video.so:system/vendor/lib/libchromatix_ov8858_q8v19w_default_video.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov8858_q8v19w_hfr_120fps.so:system/vendor/lib/libchromatix_ov8858_q8v19w_hfr_120fps.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov8858_q8v19w_hfr_60fps.so:system/vendor/lib/libchromatix_ov8858_q8v19w_hfr_60fps.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov8858_q8v19w_hfr_90fps.so:system/vendor/lib/libchromatix_ov8858_q8v19w_hfr_90fps.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov8858_q8v19w_liveshot.so:system/vendor/lib/libchromatix_ov8858_q8v19w_liveshot.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov8858_q8v19w_preview.so:system/vendor/lib/libchromatix_ov8858_q8v19w_preview.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov8858_q8v19w_snapshot.so:system/vendor/lib/libchromatix_ov8858_q8v19w_snapshot.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov8858_q8v19w_zsl.so:system/vendor/lib/libchromatix_ov8858_q8v19w_zsl.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov8858_snapshot.so:system/vendor/lib/libchromatix_ov8858_snapshot.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_s5k3m2_common.so:system/vendor/lib/libchromatix_s5k3m2_common.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_s5k3m2_common_hdr.so:system/vendor/lib/libchromatix_s5k3m2_common_hdr.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_s5k3m2_default_video.so:system/vendor/lib/libchromatix_s5k3m2_default_video.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_s5k3m2_hfr_120.so:system/vendor/lib/libchromatix_s5k3m2_hfr_120.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_s5k3m2_hfr_60.so:system/vendor/lib/libchromatix_s5k3m2_hfr_60.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_s5k3m2_hfr_90.so:system/vendor/lib/libchromatix_s5k3m2_hfr_90.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_s5k3m2_liveshot.so:system/vendor/lib/libchromatix_s5k3m2_liveshot.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_s5k3m2_liveshot_hdr.so:system/vendor/lib/libchromatix_s5k3m2_liveshot_hdr.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_s5k3m2_preview.so:system/vendor/lib/libchromatix_s5k3m2_preview.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_s5k3m2_preview_night.so:system/vendor/lib/libchromatix_s5k3m2_preview_night.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_s5k3m2_snapshot.so:system/vendor/lib/libchromatix_s5k3m2_snapshot.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_s5k3m2_snapshot_hdr.so:system/vendor/lib/libchromatix_s5k3m2_snapshot_hdr.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_s5k3m2_snapshot_night.so:system/vendor/lib/libchromatix_s5k3m2_snapshot_night.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_s5k3m2_video_hdr.so:system/vendor/lib/libchromatix_s5k3m2_video_hdr.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_s5k5e2_common.so:system/vendor/lib/libchromatix_s5k5e2_common.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_s5k5e2_default_video.so:system/vendor/lib/libchromatix_s5k5e2_default_video.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_s5k5e2_front_GS_common.so:system/vendor/lib/libchromatix_s5k5e2_front_GS_common.so \
@@ -439,32 +356,16 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_hdr_lib.so:system/vendor/lib/libmmcamera_hdr_lib.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_hi256.so:system/vendor/lib/libmmcamera_hi256.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_imglib.so:system/vendor/lib/libmmcamera_imglib.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_imx132.so:system/vendor/lib/libmmcamera_imx132.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_imx230.so:system/vendor/lib/libmmcamera_imx230.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_mt9m114.so:system/vendor/lib/libmmcamera_mt9m114.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_mt9v113.so:system/vendor/lib/libmmcamera_mt9v113.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_ov13850.so:system/vendor/lib/libmmcamera_ov13850.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_ov16825.so:system/vendor/lib/libmmcamera_ov16825.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_ov2680.so:system/vendor/lib/libmmcamera_ov2680.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_ov2680_5987fhq.so:system/vendor/lib/libmmcamera_ov2680_5987fhq.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_ov2720.so:system/vendor/lib/libmmcamera_ov2720.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_ov5645.so:system/vendor/lib/libmmcamera_ov5645.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_ov5648_oty5f03.so:system/vendor/lib/libmmcamera_ov5648_oty5f03.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_ov5648_p5v18g.so:system/vendor/lib/libmmcamera_ov5648_p5v18g.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_ov5648_q5v22e.so:system/vendor/lib/libmmcamera_ov5648_q5v22e.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_ov5670_q5v41b.so:system/vendor/lib/libmmcamera_ov5670_q5v41b.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_ov7695.so:system/vendor/lib/libmmcamera_ov7695.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_ov8825.so:system/vendor/lib/libmmcamera_ov8825.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_ov8858.so:system/vendor/lib/libmmcamera_ov8858.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_ov8858_q8v19w.so:system/vendor/lib/libmmcamera_ov8858_q8v19w.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_ov8865_q8v18a.so:system/vendor/lib/libmmcamera_ov8865_q8v18a.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_ov9724.so:system/vendor/lib/libmmcamera_ov9724.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_s5k3l1yx.so:system/vendor/lib/libmmcamera_s5k3l1yx.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_s5k5e2.so:system/vendor/lib/libmmcamera_s5k5e2.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_skuab_shinetech_gc0339.so:system/vendor/lib/libmmcamera_skuab_shinetech_gc0339.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_skuf_ov12830_p12v01c.so:system/vendor/lib/libmmcamera_skuf_ov12830_p12v01c.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_skuf_ov5648_p5v23c.so:system/vendor/lib/libmmcamera_skuf_ov5648_p5v23c.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_sonyimx135_eeprom.so:system/vendor/lib/libmmcamera_sonyimx135_eeprom.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_sp1628.so:system/vendor/lib/libmmcamera_sp1628.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_sunny_q13v04b_eeprom.so:system/vendor/lib/libmmcamera_sunny_q13v04b_eeprom.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_sunny_q5v22e_eeprom.so:system/vendor/lib/libmmcamera_sunny_q5v22e_eeprom.so \
