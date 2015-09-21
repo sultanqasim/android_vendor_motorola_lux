@@ -199,16 +199,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/motorola/lux/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
     vendor/motorola/lux/proprietary/vendor/lib/libc2d30-a4xx.so:system/vendor/lib/libc2d30-a4xx.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_common.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_common.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_default_video.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_default_video.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_hfr_120fps.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_hfr_120fps.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_hfr_60fps.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_hfr_60fps.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_hfr_90fps.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_hfr_90fps.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_liveshot.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_liveshot.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_preview.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_preview.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_snapshot.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_snapshot.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_video_hd.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_video_hd.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_zsl.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_zsl.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx230_common.so:system/vendor/lib/libchromatix_imx230_common.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx230_common_hdr.so:system/vendor/lib/libchromatix_imx230_common_hdr.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx230_default_video.so:system/vendor/lib/libchromatix_imx230_default_video.so \
@@ -293,7 +283,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera2_stats_modules.so:system/vendor/lib/libmmcamera2_stats_modules.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera2_vpe_module.so:system/vendor/lib/libmmcamera2_vpe_module.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera2_wnr_module.so:system/vendor/lib/libmmcamera2_wnr_module.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_S5K4E1_13P1BA.so:system/vendor/lib/libmmcamera_S5K4E1_13P1BA.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_faceproc.so:system/vendor/lib/libmmcamera_faceproc.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_hdr_gb_lib.so:system/vendor/lib/libmmcamera_hdr_gb_lib.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_hdr_lib.so:system/vendor/lib/libmmcamera_hdr_lib.so \
