@@ -222,28 +222,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx230_snapshot_hdr.so:system/vendor/lib/libchromatix_imx230_snapshot_hdr.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx230_snapshot_night.so:system/vendor/lib/libchromatix_imx230_snapshot_night.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_imx230_video_hdr.so:system/vendor/lib/libchromatix_imx230_video_hdr.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5648_p5v18g_common.so:system/vendor/lib/libchromatix_ov5648_p5v18g_common.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5648_p5v18g_default_video.so:system/vendor/lib/libchromatix_ov5648_p5v18g_default_video.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5648_p5v18g_default_video_hd.so:system/vendor/lib/libchromatix_ov5648_p5v18g_default_video_hd.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5648_p5v18g_preview.so:system/vendor/lib/libchromatix_ov5648_p5v18g_preview.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5648_p5v18g_snapshot.so:system/vendor/lib/libchromatix_ov5648_p5v18g_snapshot.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5648_p5v18g_zsl.so:system/vendor/lib/libchromatix_ov5648_p5v18g_zsl.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5648_q5v22e_common.so:system/vendor/lib/libchromatix_ov5648_q5v22e_common.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5648_q5v22e_default_video.so:system/vendor/lib/libchromatix_ov5648_q5v22e_default_video.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5648_q5v22e_default_video_hd.so:system/vendor/lib/libchromatix_ov5648_q5v22e_default_video_hd.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5648_q5v22e_preview.so:system/vendor/lib/libchromatix_ov5648_q5v22e_preview.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5648_q5v22e_snapshot.so:system/vendor/lib/libchromatix_ov5648_q5v22e_snapshot.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5648_q5v22e_zsl.so:system/vendor/lib/libchromatix_ov5648_q5v22e_zsl.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_common.so:system/vendor/lib/libchromatix_ov5670_q5v41b_common.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_default_video.so:system/vendor/lib/libchromatix_ov5670_q5v41b_default_video.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_hfr_120fps.so:system/vendor/lib/libchromatix_ov5670_q5v41b_hfr_120fps.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_hfr_60fps.so:system/vendor/lib/libchromatix_ov5670_q5v41b_hfr_60fps.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_hfr_90fps.so:system/vendor/lib/libchromatix_ov5670_q5v41b_hfr_90fps.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_liveshot.so:system/vendor/lib/libchromatix_ov5670_q5v41b_liveshot.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_preview.so:system/vendor/lib/libchromatix_ov5670_q5v41b_preview.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_snapshot.so:system/vendor/lib/libchromatix_ov5670_q5v41b_snapshot.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_video_hd.so:system/vendor/lib/libchromatix_ov5670_q5v41b_video_hd.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_zsl.so:system/vendor/lib/libchromatix_ov5670_q5v41b_zsl.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_s5k5e2_common.so:system/vendor/lib/libchromatix_s5k5e2_common.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_s5k5e2_default_video.so:system/vendor/lib/libchromatix_s5k5e2_default_video.so \
     vendor/motorola/lux/proprietary/vendor/lib/libchromatix_s5k5e2_front_GS_common.so:system/vendor/lib/libchromatix_s5k5e2_front_GS_common.so \
@@ -322,11 +300,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_hi256.so:system/vendor/lib/libmmcamera_hi256.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_imglib.so:system/vendor/lib/libmmcamera_imglib.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_imx230.so:system/vendor/lib/libmmcamera_imx230.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_ov5645.so:system/vendor/lib/libmmcamera_ov5645.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_ov5648_oty5f03.so:system/vendor/lib/libmmcamera_ov5648_oty5f03.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_ov5648_p5v18g.so:system/vendor/lib/libmmcamera_ov5648_p5v18g.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_ov5648_q5v22e.so:system/vendor/lib/libmmcamera_ov5648_q5v22e.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_ov5670_q5v41b.so:system/vendor/lib/libmmcamera_ov5670_q5v41b.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_s5k5e2.so:system/vendor/lib/libmmcamera_s5k5e2.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_sp1628.so:system/vendor/lib/libmmcamera_sp1628.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmmcamera_sunny_q13v04b_eeprom.so:system/vendor/lib/libmmcamera_sunny_q13v04b_eeprom.so \
