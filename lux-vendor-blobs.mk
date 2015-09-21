@@ -30,7 +30,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/motorola/lux/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
     vendor/motorola/lux/proprietary/bin/netmgrd:system/bin/netmgrd \
-    vendor/motorola/lux/proprietary/bin/ptt_socket_app:system/bin/ptt_socket_app \
     vendor/motorola/lux/proprietary/bin/qmi_motext_hook:system/bin/qmi_motext_hook \
     vendor/motorola/lux/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/motorola/lux/proprietary/bin/qseecomd:system/bin/qseecomd \
@@ -42,7 +41,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/bin/stml0xx:system/bin/stml0xx \
     vendor/motorola/lux/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/motorola/lux/proprietary/bin/time_daemon:system/bin/time_daemon \
-    vendor/motorola/lux/proprietary/bin/vm_bms:system/bin/vm_bms \
     vendor/motorola/lux/proprietary/bin/xtwifi-client:system/bin/xtwifi-client \
     vendor/motorola/lux/proprietary/bin/xtwifi-inet-agent:system/bin/xtwifi-inet-agent \
     vendor/motorola/lux/proprietary/etc/acdbdata/Bluetooth_cal.acdb:system/etc/acdbdata/Bluetooth_cal.acdb \
@@ -262,7 +260,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/vendor/lib/liblocationservice.so:system/vendor/lib/liblocationservice.so \
     vendor/motorola/lux/proprietary/vendor/lib/liblowi_client.so:system/vendor/lib/liblowi_client.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
-    vendor/motorola/lux/proprietary/vendor/lib/libmdsprpc.so:system/vendor/lib/libmdsprpc.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmm-abl.so:system/vendor/lib/libmm-abl.so \
     vendor/motorola/lux/proprietary/vendor/lib/libmm-color-convertor.so:system/vendor/lib/libmm-color-convertor.so \
@@ -355,7 +352,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/vendor/lib/libxtadapter.so:system/vendor/lib/libxtadapter.so \
     vendor/motorola/lux/proprietary/vendor/lib/libxtwifi_ulp_adaptor.so:system/vendor/lib/libxtwifi_ulp_adaptor.so \
     vendor/motorola/lux/proprietary/vendor/lib/libxtwifi_zpp_adaptor.so:system/vendor/lib/libxtwifi_zpp_adaptor.so \
-    vendor/motorola/lux/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
     vendor/motorola/lux/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/motorola/lux/proprietary/vendor/lib/mmi_audio.so:system/vendor/lib/mmi_audio.so \
     vendor/motorola/lux/proprietary/vendor/lib/mmi_battery.so:system/vendor/lib/mmi_battery.so \
