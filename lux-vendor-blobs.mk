@@ -36,7 +36,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/bin/radish:system/bin/radish \
     vendor/motorola/lux/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/motorola/lux/proprietary/bin/rild:system/bin/rild \
-    vendor/motorola/lux/proprietary/bin/rmnetcli:system/bin/rmnetcli \
     vendor/motorola/lux/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/motorola/lux/proprietary/bin/stml0xx:system/bin/stml0xx \
     vendor/motorola/lux/proprietary/bin/thermal-engine:system/bin/thermal-engine \
