@@ -101,7 +101,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
     vendor/motorola/lux/proprietary/etc/firmware/vrgain.bin:system/etc/firmware/vrgain.bin \
     vendor/motorola/lux/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:system/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin \
-    vendor/motorola/lux/proprietary/etc/gps.conf:system/etc/gps.conf \
     vendor/motorola/lux/proprietary/etc/izat.conf:system/etc/izat.conf \
     vendor/motorola/lux/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/motorola/lux/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
