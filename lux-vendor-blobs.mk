@@ -112,7 +112,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/etc/xtwifi.conf:system/etc/xtwifi.conf \
     vendor/motorola/lux/proprietary/lib/hw/audio.primary.msm8916.so:system/lib/hw/audio.primary.msm8916.so \
     vendor/motorola/lux/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
-    vendor/motorola/lux/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/motorola/lux/proprietary/lib/hw/nfc_nci.bcm2079x.default.so:system/lib/hw/nfc_nci.bcm2079x.default.so \
     vendor/motorola/lux/proprietary/lib/hw/sensorhub.msm8916.so:system/lib/hw/sensorhub.msm8916.so \
     vendor/motorola/lux/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
