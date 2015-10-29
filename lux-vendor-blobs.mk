@@ -109,7 +109,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lux/proprietary/etc/sap.conf:system/etc/sap.conf \
     vendor/motorola/lux/proprietary/etc/xtra_root_cert.pem:system/etc/xtra_root_cert.pem \
     vendor/motorola/lux/proprietary/etc/xtwifi.conf:system/etc/xtwifi.conf \
-    vendor/motorola/lux/proprietary/lib/hw/audio.a2dp.default.so:system/lib/hw/audio.a2dp.default.so \
     vendor/motorola/lux/proprietary/lib/hw/audio.motvr.default.so:system/lib/hw/audio.motvr.default.so \
     vendor/motorola/lux/proprietary/lib/hw/audio.primary.default.so:system/lib/hw/audio.primary.default.so \
     vendor/motorola/lux/proprietary/lib/hw/audio.primary.msm8916.so:system/lib/hw/audio.primary.msm8916.so \
